@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <p>
 	<!-- github stats-->    
-<img src="https://github-readme-stats.vercel.app/api?username=Shivam-officials&show_icons=true&&count_private=true&theme=tokyonight"/>  <!--streak --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-officials&theme=tokyonight" alt="Shivam-officials" />
+<img width = "40%" src="https://github-readme-stats.vercel.app/api?username=Shivam-officials&show_icons=true&&count_private=true&theme=tokyonight"/>  <!--streak --> <img width = "40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-officials&theme=tokyonight" alt="Shivam-officials" />
 </p>
 
 <!-- top lang. card -->
