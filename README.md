@@ -81,5 +81,5 @@ Here are some ideas to get you started:
 
 ## Projects made with ❤️ 👇
 
-<!-- Extra pin more than 6 repo -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shivam-officials&show_owner&repo=MySoothe)](https://github.com/Shivam-officials/MySoothe)
+<!-- Extra pin more than 6 repo 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shivam-officials&show_owner&repo=MySoothe)](https://github.com/Shivam-officials/MySoothe) -->
