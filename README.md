@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/_shivam_mm" target="blank"><img src="https://img.shields.io/twitter/follow/_shivam_mm?logo=twitter&style=for-the-badge" alt="_shivam_mm" /></a> </p>
 
-- 🔭 I’m currently working on [MySoothe](https://github.com/Shivam-officials/MySoothe)
+- 🔭 I’m currently working on [Inventory](https://github.com/Shivam-officials/Inventory)
 
 - 🌱 I’m currently learning **Android Development - Jetpack Compose**
 
