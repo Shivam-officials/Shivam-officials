@@ -66,16 +66,14 @@ Here are some ideas to get you started:
 
 
 
-<p>
+
 	<!-- github stats-->    
-<img width = "48%" src="https://github-readme-stats.vercel.app/api?username=Shivam-officials&show_icons=true&&count_private=true&theme=tokyonight"/>  <!--streak --> <img width = "48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-officials&theme=tokyonight" alt="Shivam-officials" />
-</p>
+<!-- <img width = "48%" src="https://github-readme-stats.vercel.app/api?username=Shivam-officials&show_icons=true&&count_private=true&theme=tokyonight"/>  <!--streak --> <img width = "48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-officials&theme=tokyonight" alt="Shivam-officials" /> -->
+<img   src = "https://leetcard.jacoblin.cool/suryabhardwajofficial?theme=nord&font=Montaga&ext=heatmap"/>
+
 
 <!-- top lang. card -->
-<p>
-	
-   [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=suryabhardwajofficial)](https://github.com/Shivam-officials/github-readme)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-officials&langs_count=8)](https://github.com/Shivam-officials/) 
-	</p>
+
 <h3 align="left">Support:</h3>  
  <a href="https://ko-fi.com/shivamofficials"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="shivamofficials" /></a></p><br><br>
 
