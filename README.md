@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 -->
 
 
-
+<!--
 <img align = "center" src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif" style="display:none">
-
-
+-->
 
 <h1 align="center">Hi 👋, I'm Shivam </h1>
 <h3 align="center">A coding and open source enthusiast. I also enjoy improving my skills by learning new skills and applying them to new projects.</h3>
@@ -32,7 +31,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/_shivam_mm" target="blank"><img src="https://img.shields.io/twitter/follow/_shivam_mm?logo=twitter&style=for-the-badge" alt="_shivam_mm" /></a> </p>
 
-- 🔭 I’m currently working on [Inventory](https://github.com/Shivam-officials/Inventory)
+- 🔭 I’m currently working on [my dsa skills](https://leetcode.com/u/suryabhardwajofficial)
 
 - 🌱 I’m currently learning **Android Development - Jetpack Compose**
 
